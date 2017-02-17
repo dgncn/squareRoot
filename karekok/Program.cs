@@ -21,7 +21,6 @@ namespace karekok
                 double root = squareRoot(a);
                 Console.WriteLine(root.ToString("G17"));
 
-
                 Console.ReadKey();
             }
             catch (Exception ex)
